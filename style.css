@@ -6,6 +6,6 @@
 }
 
 img {
-  max-width: 200px; /* Ensures images don't stretch too wide */
+  max-width: 300px; /* Ensures images don't stretch too wide */
   height: auto; /* Maintains aspect ratio */
 }
