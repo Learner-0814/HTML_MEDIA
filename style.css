@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Centers images */
+  gap: 10px;
+}
+
+img {
+  max-width: 200px; /* Ensures images don't stretch too wide */
+  height: auto; /* Maintains aspect ratio */
+}
